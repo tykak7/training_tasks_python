@@ -1,6 +1,7 @@
-##Určete součet všech násobků 3 a 5 menších než 1234.
-##EDIT 26.9.: Vzhledem k několika komentářům raději reformuluji zadání:
-##Určete součet všech čísel, jež jsou násobkem 3 nebo 5 a jsou menší než 1234.
+# Consider natural numbers less than 10 that are multiples
+# of 3 or 5 (i.e. 3; 5; 6; 9). The sum of these multiples is 23.
+
+# Determine the sum of all multiples of 3 and 5 less than 1234.
 
 result = 0
 
