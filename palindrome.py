@@ -1,6 +1,6 @@
-#Nalezněte nevětší palindromické číslo které je součinem dvou 4 místných čísel.
-#Řešení: 99000099
+# Find the largest palindromic number that is the product of two 4-digit numbers.
 
+    
 # Checks if a number is a palindrome (číslo, které je v obou směrech stejné)
 def is_palindrome(num): #(argument) parentheses are mandatory!!
     num_str = str(num) #convert the number to a string
@@ -18,7 +18,7 @@ def largest_palindrome_product():
 #Second argument (stop): 999 in this case is the end value of the range
 #(not inclusive). The loop will continue as long as the variable i is greater than this value.
 
-# Third argument (step): -1 in this case indicates the step at which the #values of variable i will change
+# Third argument (step): -1, in this case, indicates the step at which the #values of variable i will change
 # values of variable i.
 #In this case, a step of -1 means that the variable i will be decremented by 1 at each # iteration of the loop.
 #iteration of the loop.
