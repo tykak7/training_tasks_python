@@ -5,3 +5,5 @@ Solutions to basic problems in learning python
   2. **fibonacci.py** - Consider the members of the Fibonacci sequence whose value is not greater than 5,000,000. Find the sum of the even terms in this part of the sequence.
   3. **largest_prime_factor.py** - The prime factors of 13195 are 5, 7, 13 and 29. Find the greatest prime divisor of 70616204741131.
   4.  **even_div.py** - The number 2520 is the smallest number that is divisible by all numbers from 1 to 10. Find the smallest positive number that is divisible without remainder by all numbers from 1 to 30.
+  5.  **huge_number.py** - Find the thirteen adjacent digits that have the greatest product in the following 1000-digit number X.
+  6.  **palindrome.py** - Find the largest palindromic number that is the product of two 4-digit numbers.
