@@ -1,6 +1,9 @@
+# Consider the members of the Fibonacci sequence
+# whose value is not greater than 5,000,000. 
+# Find the sum of the even terms in this part of the sequence.
 
-def fibonacci(minus_prvni, minus_druhi):
-    result = minus_prvni + minus_druhi
+def fibonacci(minus_first, minus_second):
+    result = minus_first + minus_second
     return result
 
 summ = 0        
