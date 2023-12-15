@@ -1,7 +1,6 @@
-#Číslo 2520 je nejmenší číslo které je dělitelné bezezbytku všemi číslo od 1 do 10.
-#Nalezněte nejmenší kladné číslo,
-#které je dělitelné bezezbytku všemi čísly od 1 do 30.
-# Řešení: 2329089562800
+# The number 2520 is the smallest number that is 
+# divisible by all numbers from 1 to 10. 
+#Find the smallest positive number that is divisible without remainder by all numbers from 1 to 30.
 
 import math # enter the library
 
