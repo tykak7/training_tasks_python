@@ -8,3 +8,4 @@ Solutions to basic problems in learning python
   5.  **huge_number.py** - Find the thirteen adjacent digits that have the greatest product in the following 1000-digit number X.
   6.  **palindrome.py** - Find the largest palindromic number that is the product of two 4-digit numbers.
   7.  **matrix.py** - Find the greatest product of four adjacent numbers (in the up, down, left, right, diagonal directions) in a 20 x 20 matrix.
+  8.  **Length_of_Last_Word.py** - Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only.
